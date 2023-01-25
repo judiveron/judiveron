@@ -1,5 +1,6 @@
-# Hi 👋, I'm Marcia!![saludo](https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966)
+# Hi 👋, I'm Marcia!
 
+<img  align="center"  src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966)"  alt="saludo"  height="50"  width="80"  />
 a FullStack Developer🚀 from Argentina 💙🤍💙
 
 ## A little more about me...
