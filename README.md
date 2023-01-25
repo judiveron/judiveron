@@ -4,7 +4,7 @@ a FullStack Developer🚀 from Argentina 💙🤍💙
 
 ## A little more about me...
 
-- Currently, I'm Access Analyst Jr 💻 [in BTR Consulting](https://www.linkedin.com/company/btr-consulting/mycompany/verification/)  
+- Currently, I'm Access Analyst Jr 💻 [in BTR Consulting](https://www.linkedin.com/company/btr-consulting/)  
   
 - 🌱 I’m currently learning **Phyton**  
   
